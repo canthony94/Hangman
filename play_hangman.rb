@@ -14,4 +14,3 @@ until hangman.game_over?
   print "\n" until hangman.ask_user_for_guess
   print "\n\n"
 end
- 
